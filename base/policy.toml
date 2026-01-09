@@ -1,0 +1,5 @@
+includes = [
+  ".gemini/settings.json",
+  "CLAUDE.md",
+]
+required = ["AGENTS.md"]

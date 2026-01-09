@@ -1,11 +1,10 @@
+base = "../base"
 includes = [
-  ".gemini/settings.json",
   ".github/workflows/ci.yaml",
   ".github/dependabot.yaml",
   ".vscode/extensions.json",
   ".vscode/settings.json",
   ".editorconfig",
   ".gitignore",
-  "CLAUDE.md",
 ]
-required = ["AGENTS.md", "LICENSE", "README.md"]
+required = ["LICENSE", "README.md"]
