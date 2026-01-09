@@ -1,0 +1,10 @@
+includes = [
+  ".gemini/settings.json",
+  ".github/workflows/ci.yaml",
+  ".github/dependabot.yaml",
+  ".vscode/extensions.json",
+  ".vscode/settings.json",
+  ".editorconfig",
+  "CLAUDE.md",
+]
+required = [".gitignore", "AGENTS.md", "LICENSE", "README.md"]
