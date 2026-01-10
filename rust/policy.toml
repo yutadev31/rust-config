@@ -6,5 +6,7 @@ includes = [
   ".vscode/settings.json",
   ".editorconfig",
   ".gitignore",
+  "biome.json",
+  "tsconfig.json",
 ]
 required = ["LICENSE", "README.md"]

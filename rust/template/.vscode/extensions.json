@@ -1,4 +1,8 @@
 {
-  "recommendations": ["EditorConfig.EditorConfig", "rust-lang.rust-analyzer"],
+  "recommendations": [
+    "biomejs.biome",
+    "EditorConfig.EditorConfig",
+    "rust-lang.rust-analyzer"
+  ],
   "unwantedRecommendations": []
 }
